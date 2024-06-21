@@ -47,6 +47,10 @@ Você também pode nos seguir nas redes sociais para obter atualizações sobre 
 
 - [Youtube](https://www.youtube.com/@ComunidadeCoders)
 
+## Link das lives
+
+- [Scalar - Guia Completo para Documentação de APIs](https://www.youtube.com/watch?v=36UX6xox8FE)
+
 ## Contato
 
 Tem alguma sugestão de tema ou gostaria de ser um palestrante em uma de nossas lives? Entre em contato conosco pelo e-mail: coderscomunidade@gmail.com.
@@ -56,4 +60,6 @@ Vamos juntos explorar o mundo da tecnologia e do desenvolvimento!
 ---
 
 Esperamos você nas nossas próximas lives!
+
+
 
