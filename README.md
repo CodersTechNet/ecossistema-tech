@@ -51,6 +51,10 @@ Você também pode nos seguir nas redes sociais para obter atualizações sobre 
 
 - [Scalar - Guia Completo para Documentação de APIs](https://www.youtube.com/watch?v=36UX6xox8FE)
 
+## Calendários das lives
+
+- Agenda: https://github.com/orgs/CodersTechNet/projects/5
+
 ## Contato
 
 Tem alguma sugestão de tema ou gostaria de ser um palestrante em uma de nossas lives? Entre em contato conosco pelo e-mail: coderscomunidade@gmail.com.
